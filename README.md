@@ -6,11 +6,11 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ## Benefits of using JsonPowerDB
 
-1.Simplest way to retrieve data in a JSON format.
+1. Simplest way to retrieve data in a JSON format.
 
-2.Schema-free, Simple to use, Nimble and In-Memory database.
+2. Schema-free, Simple to use, Nimble and In-Memory database.
 
-3.It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+3. It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 
 4. It is low level (raw) form of data and is also human readable.
 
@@ -32,4 +32,18 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 7. Improve Existing applications reporting / analytics performance
 
+## What is the above code performing?
+
+The above code is a sample illustration of some of the methods used in JPDB such as PUT,UPDATE,DELETE,GET,etc.
+
 8. Live working HTML templates.
+
+## Languages in JsonPowerDB
+
+1. Index Manipulation Language
+
+2. Index Retrieval Language
+
+3. Index Definition Language
+
+4.Index Scripting Language
