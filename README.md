@@ -42,7 +42,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 3. Index Definition Language
 
-4.Index Scripting Language
+4. Index Scripting Language
 
 ## What is the above code performing?
 
