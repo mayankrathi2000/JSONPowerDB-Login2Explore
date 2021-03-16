@@ -32,10 +32,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 7. Improve Existing applications reporting / analytics performance
 
-## What is the above code performing?
-
-The above code is a sample illustration of some of the methods used in JPDB such as PUT,UPDATE,DELETE,GET,etc.
-
 8. Live working HTML templates.
 
 ## Languages in JsonPowerDB
@@ -47,3 +43,7 @@ The above code is a sample illustration of some of the methods used in JPDB such
 3. Index Definition Language
 
 4.Index Scripting Language
+
+## What is the above code performing?
+
+The above code is a sample illustration of some of the methods used in JPDB such as PUT,UPDATE,DELETE,GET,etc.
